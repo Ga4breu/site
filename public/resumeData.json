@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name":"Gabriel Schaedler de Abreu",
+    "description":"Eu sou estudante de engenharia elétrica pela Universidade Estadual do Oeste do Paraná e atuo como desenvolvedor WEB, no momento possuo um conhecimento maior no setor Front-end, mas estou em processo de me tornar FullStack",
+    "image":"profilepic.jpg",
+    "bio":"Apesar de estudar engenharia elétrica, sou completamente apaixonado por desenvolvimento web, e utilizei esse site para me apresentar como desenvolvedor. Possuo um grande apreço por marketing e empreendimento, que além da programação, são as áreas das quais eu mais estudo.",
+    "contactmessage":"Seção não funcional acho q vou tirar",
+    "email": "gabriel_schaedler@hotmail.com.com",
+    "phone": "45 9 9985-7927",
+    "github":"https://github.com/Ga4breu",
+    "ln":"https://www.linkedin.com/in/gabriel-s-de-abreu-a040161b7/",
+    "address":{
+      "street":"",
+      "city":"Foz do iguaçu",
+      "state":"Paraná",
+      "zip": ""
+    },
+    "website": "http://www.google.com",
+    "resumedownload":"http://google.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gabriel-s-de-abreu-a040161b7/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/gabriel_s_abreu",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ga4breu",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Minhas áreas de conhecimento na programação.",
+    "education":[
+      {
+        "school":"Universidade (UNIOESTE)",
+        "degree":"Engenharia Elétrica",
+        "graduated":"Ingresso em 2018",
+        "description":"Um curso extremamente desafiador e que exige bastante conhecimento na área de computação para viabilizar o desenvolvimento de scripts utilizados para trabalhos, onde tive meu primeiro contato com a programação, e o meu primeiro contato com o desenvolvimento WEB."
+      },
+      {
+        "school":"Ensino médio",
+        "degree":"Ensino médio regular",
+        "graduated":"Finalizado em 2017",
+        "description":"Tive uma experiência muito bacana no ensino médio, onde sai com plena convicção de estar preparado para a vida, ledo engano, finalmente entendi o que meu pai quer dizer quando diz que o céu não é perto."
+      }
+    ],
+    "work":[
+      {
+        "company":"LARC/USP",
+        "title":"Front-end Developer ",
+        "years":"Maio 2022 - Presente",
+        "description":"Sou responsável pela implementação das telas do projeto de logs transparentes, e em determinados momentos preciso realizar adaptações e adições nos códigos do backend."
+      },
+      {
+        "company":"CATARATAS FSAE",
+        "title":"Responsável pela telemetria",
+        "years":"Março 2019 - Fevereiro 2022",
+        "description":"Fui responsável pelo setor de telemetria do projeto, desenvolvimento, implementação e projeto."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "width":"130px",
+        "image":"images/python.png.opdownload"
+      },
+      {
+        "name":"ReactJS",
+        "width":"130px",
+        "image":"images/react.png"
+      },
+      {
+        "name":"CSS",
+        "width":"130px",
+        "image":"images/css.png"
+      },
+      {
+        "name":"HTML",
+        "width":"130px",
+        "image":"images/html.png"
+      },
+      {
+        "name":"Node.JS",
+        "width":"150px",
+        "image":"images/nodejs.png"
+      },
+      {
+        "name":"JavaScript",
+        "width":"130px",
+        "image":"images/js.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Meu primeiro Website",
+        "category":"",
+        "image":"01.jpg",
+        "url":"iseegrupo1.netlify.com"
+      }
+      
+    ]
+  }
+}

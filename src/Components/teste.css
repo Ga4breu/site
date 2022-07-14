@@ -1,0 +1,6 @@
+ul.skills {
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    gap:2vw;
+  }
