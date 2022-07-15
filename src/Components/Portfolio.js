@@ -13,8 +13,10 @@ class Portfolio extends Component {
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
+            <a href={projects.url} target='_blank'>
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{projects.title}</div>
+            </a>
           </div>
         </div>
       );
@@ -31,7 +33,7 @@ class Portfolio extends Component {
                 id="portfolio-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
               >
-              <a href={'https://iseegrupo1.netlify.com'}>{projects}</a>
+              <a>{projects}</a>
                 
               </div>
             </div>
